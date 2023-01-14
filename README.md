@@ -1,4 +1,4 @@
-# instageram
+# Modinger
 
 A new Flutter project.
 
